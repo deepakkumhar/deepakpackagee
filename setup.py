@@ -1,7 +1,7 @@
 import os
 from setuptools import setup
 
-
+#pip install git+https://github.com/deepakkumhar/deepakpackagee/#egg=social
 here = os.path.abspath(os.path.dirname(__file__))
 README = open(os.path.join(here, 'README.rst')).read()
 
