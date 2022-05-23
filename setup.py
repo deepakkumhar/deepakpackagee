@@ -13,7 +13,7 @@ setup(
     long_description=README,
     author='deepak',
     author_email='yourname@example.com',
-    url='https://github.com/yourname/django-myapp/',
+    url='https://github.com/deepakkumhar/deepakpackagee/social=0.1',
     license='MIT',
     install_requires=[
         'Django=4.0.1',
